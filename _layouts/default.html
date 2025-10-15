@@ -9,10 +9,11 @@
 </head>
 <body>
   <!-- Navigation Menu -->
-  <nav style="margin-bottom: 20px;">
-    <a href="{{ "/" | relative_url }}" style="margin-right: 15px;">Home</a>
-    <a href="{{ "/research/" | relative_url }}">Research</a>
-  </nav>
+<nav>
+  {% for item in site.nav %}
+    <a href="{{ item.url }}">{{ item.title }}</a>
+  {% endfor %}
+</nav>
 
   <!-- Page content -->
   <main>
