@@ -6,7 +6,7 @@ permalink: /research
 
 # Research
 
-## Work in Progress
+## Working Papers
 
 "Transistors All the Way Down: Viability of Direct Volume Measurement (and Price Indexes) for Semiconductors," with David Byrne and Adrian Hamins-Puertolas
 
