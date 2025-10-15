@@ -4,25 +4,28 @@
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Optional: GitHub Pages theme CSS -->
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+    nav a { margin-right: 20px; text-decoration: none; color: #0366d6; }
+    nav a:hover { text-decoration: underline; }
+    footer { margin-top: 40px; font-size: 0.9em; color: #555; }
+  </style>
 </head>
 <body>
   <!-- Navigation Menu -->
-<nav>
-  {% for item in site.nav %}
-    <a href="{{ item.url }}">{{ item.title }}</a>
-  {% endfor %}
-</nav>
+  <nav>
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <a href="{{ "/research/" | relative_url }}">Research</a>
+  </nav>
 
   <!-- Page content -->
   <main>
     {{ content }}
   </main>
 
-  <!-- Optional footer -->
-  <footer style="margin-top: 40px; font-size: 0.9em; color: #555;">
+  <footer>
     &copy; {{ site.time | date: "%Y" }} My GitHub Pages Site
   </footer>
 </body>
 </html>
+
