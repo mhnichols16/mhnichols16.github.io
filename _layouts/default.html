@@ -13,16 +13,18 @@
   </style>
 </head>
 <body>
-  <header>
-  <h1>{{ site.title }}</h1>
-  </header>
-  <!-- Navigation Menu -->
-  <nav style="display: flex; justify-content: flex-end; gap: 20px; margin-bottom: 20px;"
-  <nav style="margin-left: 20px;">
+  <!-- Header + Navigation Container -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
+    <!-- Left-aligned site title -->
+    <h1 style="margin: 0;">{{ site.title }}</h1>
+
+    <!-- Right-aligned navigation -->
+    <nav style="display: flex; gap: 20px;">
     <a href="{{ "/" | relative_url }}" class="{% if page.url == '/' %}current{% endif %}">Home</a>
     <a href="{{ "/research.html" | relative_url }}">Research</a>
     <a href="{{ "/cv.html" | relative_url }}">CV</a>
   </nav>
+  </div>
 
   <!-- Page content -->
   <main>
