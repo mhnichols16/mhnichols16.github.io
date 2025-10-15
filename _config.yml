@@ -1,0 +1,11 @@
+title: Molly Harnish Nichols
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation links
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
