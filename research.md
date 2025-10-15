@@ -9,7 +9,7 @@ title: Research
 
 "Tracking Real Time Layoffs with SEC Filings: A Preliminary Investigation," with Leland D. Crane, Emily Green, Will McClennan, Jacob Williams, and Betsy Vrankovich. FEDS Working Paper available [here](https://doi.org/10.17016/FEDS.2024.020). 
 
-## Non-Peer-Reviewed Publications
+## Public-Facing Writing
 
 "Delving into Climate Change Economics," Federal Reserve Bank of Richmond Economic Brief 21-02, January 2021 ([link](https://www.richmondfed.org/publications/research/economic_brief/2021/eb_21-02))
 
