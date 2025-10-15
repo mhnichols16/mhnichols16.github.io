@@ -1,8 +1,3 @@
-<nav>
-  <a href="index.html">Home</a> |
-  <a href="research.html">Research</a>
-</nav>
-
 # Molly Harnish Nichols
 
 I am a Ph.D. student at the University of California, Berkeley in Agricultural and Resource Economics. 
