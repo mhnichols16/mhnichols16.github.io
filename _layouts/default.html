@@ -7,6 +7,7 @@
   <style>
     body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
     nav a { margin-right: 20px; text-decoration: none; color: #0366d6; }
+    nav a.current { font-weight: bold; color: #000; }
     nav a:hover { text-decoration: underline; }
     footer { margin-top: 40px; font-size: 0.9em; color: #555; }
   </style>
@@ -14,8 +15,8 @@
 <body>
   <!-- Navigation Menu -->
   <nav>
-    <a href="{{ "/" | relative_url }}">Home</a>
-    <a href="{{ "/research/" | relative_url }}">Research</a>
+    <a href="{{ "/" | relative_url }}" class="{% if page.url == '/' %}current{% endif %}">Home</a>
+    <a href="{{ "/research/" | relative_url }}" class="{% if page.url == '/research/' %}current{% endif %}">Research</a>
   </nav>
 
   <!-- Page content -->
@@ -28,4 +29,5 @@
   </footer>
 </body>
 </html>
+
 
