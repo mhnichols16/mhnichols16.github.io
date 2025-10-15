@@ -14,10 +14,10 @@ permalink: /research
 
 ## Non-Peer-Reviewed Publications
 
-"Delving into Climate Change Economics," Federal Reserve Bank of Richmond Economic Brief 21-02, January 2021
+"Delving into Climate Change Economics," Federal Reserve Bank of Richmond Economic Brief 21-02, January 2021 ([link](https://www.richmondfed.org/publications/research/economic_brief/2021/eb_21-02))
 
-"In Tourism, Old Stories and New Opportunities," Econ Focus, Fourth Quarter 2019
+"In Tourism, Old Stories and New Opportunities," Econ Focus, Fourth Quarter 2019 ([link](https://www.richmondfed.org/publications/research/econ_focus/2019/q4/feature2))
 
-"Do Loans Increase Educational Attainment?", Econ Focus, Fourth Quarter 2019
+"Do Loans Increase Educational Attainment?", Econ Focus, Fourth Quarter 2019 ([link](https://www.richmondfed.org/publications/research/econ_focus/2019/q4/research_spotlight))
 
-"Central Banks and Climate Risks," Econ Focus, Second/Third Quarter 2019
+"Central Banks and Climate Risks," Econ Focus, Second/Third Quarter 2019 ([link](https://www.richmondfed.org/publications/research/econ_focus/2019/q2-3/feature1))
