@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img align= "left" src="IMG_6534.jpg" alt="Nichols_Headshot" width="300" height="400"> I am a Ph.D. student at the University of California, Berkeley in Agricultural and Resource Economics. My research interests are at the intersection of environmental economics and policy. I am particularly interested in how environmental policy affects individuals' economic outcomes; the political economy of environmental policy; and the relationship between environmental policy and firm behavior. Before coming to UC Berkeley, I earned my B.S. in economics at George Mason University and worked for three years at the Federal Reserve Board of Governors. 
+<img align= "left" src="IMG_6534.jpg" alt="Nichols_Headshot" width="300" height="350"> I am a Ph.D. student at the University of California, Berkeley in Agricultural and Resource Economics. My research interests are at the intersection of environmental economics and policy. I am particularly interested in how environmental policy affects individuals' economic outcomes; the political economy of environmental policy; and the relationship between environmental policy and firm behavior. Before coming to UC Berkeley, I earned my B.S. in economics at George Mason University and worked for three years at the Federal Reserve Board of Governors. 
 
 When I am not working on research, I enjoy reading fiction, cheering for Philadelphia sports teams, and hiking. 
 
